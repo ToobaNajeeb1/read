@@ -4,12 +4,8 @@
 alert("Welcome to my First website")
 
 /*------------------------TASK 2--------------------*/
-var c=("JavaScript Alert");
-var a=3;
-var b=1;
-if(a>b){
     alert("Error! please enter a valid password") 
-}
+
 /*--------------------------------- TASK 3-----------*/
 var a=3;
 var b=1;
